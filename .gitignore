@@ -132,7 +132,3 @@ dmypy.json
 .pyre/
 
 checkpoints/
-
-augmented/image/
-
-data/images/
